@@ -1,6 +1,6 @@
 ### Hi, I'm Okke 👋
 
-Sales consultant at SalesWizard and Home Assistant freak, based in the Netherlands.
+A Home Assistant freak, based in the Netherlands.
 
 #### 🏠 Featured project
 
